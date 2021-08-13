@@ -10,10 +10,10 @@
 
 ## 產品截圖
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/34936931/129286704-a100f31f-c170-42f1-ba18-8e118f668d5d.jpg" width=30% height=30%>
-  <img src="https://user-images.githubusercontent.com/34936931/129286730-5dbf29ae-e0d8-497b-9fe7-4b823fd52e69.jpg" width=30% height=30%>
-  <img src="https://user-images.githubusercontent.com/34936931/129286747-26151268-d6ef-402f-98f7-edd08818da6f.jpg" width=30% height=30%>
-  <img src="https://user-images.githubusercontent.com/34936931/129286779-a3feb810-fe0e-482f-ab3c-2badc20b90d5.jpg" width=30% height=30%>
+  <img src="https://user-images.githubusercontent.com/34936931/129286704-a100f31f-c170-42f1-ba18-8e118f668d5d.jpg" width=20% height=20%>
+  <img src="https://user-images.githubusercontent.com/34936931/129286730-5dbf29ae-e0d8-497b-9fe7-4b823fd52e69.jpg" width=20% height=20%>
+  <img src="https://user-images.githubusercontent.com/34936931/129286747-26151268-d6ef-402f-98f7-edd08818da6f.jpg" width=20% height=20%>
+  <img src="https://user-images.githubusercontent.com/34936931/129286779-a3feb810-fe0e-482f-ab3c-2badc20b90d5.jpg" width=20% height=20%>
 </p>
 
 ## 試用一下
